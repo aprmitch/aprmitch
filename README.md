@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aprmitch
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning C#. I'm a MIS student graduating in Dec. 2022. 
-- 💞️ I’m looking to collaborate on projects that would give me practice using C# or introductory input on new languages.
+- 🌱 I have experience with C#, HTML, CSS, PHP, and MySql. I'm a MIS student graduating in Dec. 2022. 
+- 💞️ I’m looking to collaborate on projects that would give me practice using ano of the above languaages or introductory input on new languages.
 - 📫 You can find me on insta @aprmitch
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aprmitch
 - 👀 I’m interested in improving my coding skills
-- 🌱 I have experience with C#, HTML, CSS, PHP, and MySql. I'm a MIS student graduating in Dec. 2022. 
-- 💞️ I’m looking to collaborate on projects that would give me practice using ano of the above languaages or introductory input on new languages.
+- 🌱 I have experience with C#, HTML, CSS, PHP, implementing REST APIs, and SQL. I have a BSBA in MIS and currently working on my MBA with a concentration in Business Analytics. 
+- 💞️ I’m looking to collaborate on projects that would give me practice using any of the tools listed above or introductory input on new languages.
 - 📫 You can find me on insta @aprmitch
 
 <!---
